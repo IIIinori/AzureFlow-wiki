@@ -4,3 +4,4 @@ build/
 .npm-cache/
 .DS_Store
 Thumbs.db
+token.txt
