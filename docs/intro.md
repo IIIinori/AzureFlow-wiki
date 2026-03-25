@@ -8,7 +8,6 @@ slug: /
   <div className="af-hero-grid">
     <div>
       <div className="af-logo-badge">
-        <img src="/img/af-logo-sky.svg" alt="AF Logo" />
         <span>AzureFlow 配置参考站</span>
       </div>
       <h1>把 AF 配置写稳，而不是写玄学</h1>
@@ -22,7 +21,6 @@ slug: /
     </div>
     <div className="af-hero-panel">
       <div className="af-hero-panel-brand">
-        <img src="/img/af-logo-sky.svg" alt="AF Logo" />
         <div>
           <strong>AzureFlow AF Wiki</strong>
           <span>面向实际配置作者的中文参考站</span>
